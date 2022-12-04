@@ -34,6 +34,6 @@ export default App;
 //{               }
 // \  _-     -_  /
 //   ~  \\ //  ~    Está funcionando.
-//_- -   | | _- _   Por
+//_- -   | | _- _   Sem o picker
 //  _ -  | |   -_
 //      // \\      
