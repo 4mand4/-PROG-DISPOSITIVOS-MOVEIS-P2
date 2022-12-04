@@ -26,7 +26,7 @@ class Conversor extends Component {
   async converter() {
     let de_para = this.state.moedaA + '_' + this.state.moedaB;
     const response = await api.get(
-      `convert?q=${de_para}&compact=ultra&apiKey=Esperando_A_Minha_Chave`,
+       `convert?q=${de_para}&compact=ultra&apiKey=3f8b6b381a9f89e0f8c1`,
     );
     let cotacao = response.data[de_para];
 
