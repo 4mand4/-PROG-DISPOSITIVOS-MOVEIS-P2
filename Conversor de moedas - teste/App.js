@@ -27,3 +27,13 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+//       _-_
+//    /~~   ~~\
+// /~~         ~~\
+//{               }
+// \  _-     -_  /
+//   ~  \\ //  ~    Está funcionando.
+//_- -   | | _- _   Por
+//  _ -  | |   -_
+//      // \\      
